@@ -268,13 +268,14 @@ input:-webkit-autofill {
 }
 
 .diag .home{
-    background: url(../images/home-2.jpg) 50% 50% fixed;
+    background: url(../images/home.jpg) 50% 50% fixed;
     background-size: cover;
 }
 
 .home-content{
    display: table-cell;
    vertical-align: middle;
+   
    text-align: center;
    z-index: 2;
    position: relative;
