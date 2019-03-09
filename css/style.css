@@ -917,6 +917,14 @@ input:-webkit-autofill {
     color: rgb(110, 109, 109);
 }
 
+.tech{
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    padding: 0 0 8px;
+    color: rgb(110, 109, 109);
+}
+
 .blog-info{
     font-size: 12px;
     font-weight: 400;
